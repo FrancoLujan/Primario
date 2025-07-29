@@ -8,7 +8,7 @@ import lombok.Data;
 @Entity
 @Data
 @Table(name = "Notas")
-public class Notas {
+public class Nota {
 
     // clave compuestaaa
     @EmbeddedId
